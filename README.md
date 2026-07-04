@@ -6,6 +6,8 @@ A full-stack HR Management System built on the MERN stack (MongoDB, Express, Rea
 
 ---
 
+Demo Video - https://drive.google.com/drive/folders/1L2KJie7sWY-CzSc9k6XzW8-I65dZJ0ZV
+
 ## Tech Stack
 
 - **Frontend:** React 19 (Vite), React Router, Tailwind CSS, Axios, react-hot-toast, lucide-react
