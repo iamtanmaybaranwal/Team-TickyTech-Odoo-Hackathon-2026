@@ -1,6 +1,4 @@
 # HRMS — Human Resource Management System
-🚀 Live Demo:
-https://hrms-ten-iota.vercel.app/
 
 **Every workday, perfectly aligned.**
 
